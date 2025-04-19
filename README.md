@@ -1,11 +1,16 @@
-<p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
+# Bytebank: o seu banco digital!
 
-<hr>
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Bytebank**
+| :label: Tecnologias | HTML, CSS e JavaScript
+| :rocket: URL         | https://cursos.alura.com.br/course/javascript-threads-requisicoes-simultaneas
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Bytebank: o seu banco digital!</p>
+![Captura de tela de 2025-04-19 16-50-26](https://github.com/user-attachments/assets/aaace174-f40d-416d-b4a9-685be2041071#vitrinedev)
 
-## Assuntos abordados durante o curso
+
+## Habilidades
 * Fetch API
 * Threads
 * Concorrência
